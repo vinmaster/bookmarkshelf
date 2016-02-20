@@ -1,0 +1,22 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.ui.fixed.menu {
+	display: none !important;
+}
+
+.ui.text.container {
+	margin-top: 50px;
+	height: 200px;
+}
+
+.black {
+	background-color: black;
+}
+
+#footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
